@@ -122,6 +122,7 @@ happy# Contributors
 - [Jonathan Orme](http://github.com/ShadowAndFlame)
 - [Sampei](https://github.com/minihei)
 - [CharanMarasi](https:github.com/Charan-Marasi) 
+- [YoYOYO](https://yoyoyo.com)
 - [Rathish Kumar](https://github.com/RATHISHKUMAR07)
 - [Varun Jaiswal]
 - [Bryan Cetani] (https://github.com/cetanibp)
